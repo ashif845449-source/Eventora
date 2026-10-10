@@ -1,0 +1,16 @@
+
+# Environment secrets
+server/.env
+server/.env.*
+!server/.env.example
+
+# Dependencies
+server/node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Operating system
+.DS_Store
+Thumbs.db
